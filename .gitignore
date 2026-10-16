@@ -1,0 +1,7 @@
+_qr.b64
+_shot_screen.png
+*.tmp
+node_modules/
+
+__pycache__/
+*.pyc
