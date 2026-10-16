@@ -1,0 +1,13 @@
+{
+  "kurisu": {
+    "uri": "speech:kurisu4:davlt9lsssvc7385nsa0:smnpzskaaiosrkwjovnd",
+    "note": "牧濑红莉栖 (Steins;Gate) / 今井麻美",
+    "ref": "kurisu4.ref.wav (GPT-SoVITS 作者选定, SNR 89dB, 44.1kHz, 裁剪+归一化)"
+  },
+  "nanami": {
+    "uri": "speech:nanami:davlt9lsssvc7385nsa0:rnslantuumhffrpufbcf",
+    "note": "七海千秋 (弹丸论破2) / 花泽香菜",
+    "ref": "nanami.ja.wav (480 段中按信噪比选出, 8.70s)"
+  },
+  "switch": "改 cordis.patch.yml 里 dsh-voice-chat → tts.custom.voice 一行即可换角色"
+}
